@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSG0626&show_icons=true&theme=radical&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSG0626&show_icons=true&theme=dracula)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdrjs1419)](https://solved.ac/tmdrjs1419)
 <!--
